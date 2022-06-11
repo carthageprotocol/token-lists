@@ -1,19 +1,19 @@
 {
-  "name": "Example List",
-  "timestamp": "2020-06-15T12:00:00+00:00",
+  "name": "Carthage List",
+  "timestamp": "2022-06-11T12:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "keywords": [
-    "uniswap",
+    "carthage",
     "default",
     "list"
   ],
   "tokens": [
     {
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0x95A0A7953F9292838C0614D690005D5c716E718E",
       "chainId": 534,
       "name": "USD Coin",
       "symbol": "USDC",
@@ -27,21 +27,21 @@
       "decimals": 6
     },
     {
-      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "address": "0x85FA00f55492B0437b3925381fAaf0E024747627",
       "chainId": 534,
       "name": "Wrapped CNDL",
       "symbol": "WCNDL",
       "decimals": 18
     },
     {
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "address": "0xb750990F953B36F806d0327678eCFB4eEFd16979",
       "chainId": 534,
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18
     },
     {
-      "address": "0xaD6D458402F60fD3Bd25163575031ACDce07538D",
+      "address": "0xad43669cbAC863e33449d423261E525de8da0Ff4",
       "chainId": 534,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
