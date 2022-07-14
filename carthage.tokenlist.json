@@ -3,7 +3,7 @@
   "timestamp": "2022-07-13T12:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "keywords": [
@@ -34,7 +34,7 @@
       "chainId": 534,
       "name": "Wrapped CNDL",
       "symbol": "WCNDL",
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "ipfs://Qmbe3ChumXNRfHcLsNBY2APRrGxkFWP68Nb35MaKMRfPye",
       "decimals": 18
     },
     {
