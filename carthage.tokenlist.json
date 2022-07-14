@@ -18,6 +18,7 @@
       "chainId": 534,
       "name": "USD Coin",
       "symbol": "USDC",
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "decimals": 6
     },
     {
@@ -41,6 +42,7 @@
       "chainId": 534,
       "name": "ZED",
       "symbol": "ZED",
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "decimals": 6
     },
     {
@@ -48,6 +50,7 @@
       "chainId": 534,
       "name": "SHIBA",
       "symbol": "SHIBA",
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "decimals": 18
     },
     {
@@ -55,6 +58,7 @@
       "chainId": 534,
       "name": "Ether",
       "symbol": "ETH",
+      "logoURI": "ipfs://QmT51MK8pmVNFUabrt6TGqSVey2Z6WK7q5NukzgXtcRo6u",
       "decimals": 18
     },
     {
@@ -62,6 +66,7 @@
       "chainId": 534,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
+      "logoURI": "ipfs://QmVChZZtAijsiTnMRFb6ziQLnRocXnBU2Lb3F67K2ZPHho",
       "decimals": 18
     }
   ]
