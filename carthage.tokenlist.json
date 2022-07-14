@@ -25,6 +25,7 @@
       "chainId": 534,
       "name": "Tether USD",
       "symbol": "USDT",
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "decimals": 6
     },
     {
@@ -32,6 +33,7 @@
       "chainId": 534,
       "name": "Wrapped CNDL",
       "symbol": "WCNDL",
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "decimals": 18
     },
     {
