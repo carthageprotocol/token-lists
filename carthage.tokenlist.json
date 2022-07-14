@@ -3,7 +3,7 @@
   "timestamp": "2022-07-13T12:00:00+00:00",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "keywords": [
@@ -26,7 +26,7 @@
       "chainId": 534,
       "name": "Tether USD",
       "symbol": "USDT",
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "ipfs://QmX9qFPbq5tGFhkxp5XYkupqaa4fREWtQFNDJvDk4LAPQA",
       "decimals": 6
     },
     {
