@@ -18,7 +18,7 @@
       "chainId": 534,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "ipfs://QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS",
       "decimals": 6
     },
     {
@@ -42,7 +42,7 @@
       "chainId": 534,
       "name": "ZED",
       "symbol": "ZED",
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "ipfs://QmYfHbjQWLFAZiTKshfd1JaDHoeXkmD4qUgquKM5VPZmZT",
       "decimals": 6
     },
     {
@@ -50,7 +50,7 @@
       "chainId": 534,
       "name": "SHIBA",
       "symbol": "SHIBA",
-      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "logoURI": "ipfs://QmUdYn6mpdQpUW1NEcm9mNT4ypxaSu9NXXwTH8XRYKbhb4",
       "decimals": 18
     },
     {
